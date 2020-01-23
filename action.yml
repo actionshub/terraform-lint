@@ -1,0 +1,9 @@
+name: 'Terraform-Lint'
+author: 'Jason Field'
+description: 'Run terraform lint on your code with ease'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'tool'
+  color: 'red'
