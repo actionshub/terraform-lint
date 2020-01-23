@@ -1,6 +1,6 @@
 name: 'Terraform-Lint'
 author: 'Jason Field'
-description: 'Run terraform lint on your code with ease'
+description: 'Validates your terraform files are formatted correctly'
 runs:
   using: 'docker'
   image: 'Dockerfile'
