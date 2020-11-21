@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## Unreleased
+## 2.0.0 - *2020-11-21*
 
 - Migrate to `main` branch as default branch
 
