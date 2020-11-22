@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## Unreleased
+## 2.0.1 - *2020-11-22*
 
 - Update documentation in README to point to the `main` branch
 
