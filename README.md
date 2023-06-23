@@ -1,7 +1,5 @@
 # Terraform Lint
 
-[![CI State](https://github.com/actionshub/terraform-lint/workflows/release/badge.svg)](https://github.com/actionshub/terraform-lint)
-
 A Github Action to ensure your terraform files are formatted correctly
 
 ## Usage
